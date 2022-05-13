@@ -1,0 +1,52 @@
+/* * {
+    background-color: blue;
+} */
+
+.list-bg {
+    background-color: bisque;
+    border: 1px solid;
+}
+
+.list-color {
+    color: black;
+}
+
+ul {
+    color: orange
+}
+
+div>p {
+    color: orange;
+}
+
+.box {
+    border: 1px solid blue;
+    height: 400px;
+    width: 400px;
+}
+
+img {
+    background-color: red;
+    height: 100%;
+    width: 100%;
+}
+
+
+/* 
+.box1 {
+    border: 1px solid blue;
+    float: left;
+    padding-top: 150px;
+}
+
+.box2 {
+    border: 1px solid orange;
+    float: left;
+    margin: 100px
+}
+
+.box3 {
+    border: 1px solid red;
+    float: right;
+    margin-right: 500px;
+} */
